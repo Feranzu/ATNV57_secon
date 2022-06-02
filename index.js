@@ -182,4 +182,4 @@ client.on("ready", () => {
 // url: "https://www.twitch.tv/nocopyrightsounds"})
 // console.log(`Successfully logined as ${client.user.tag}});
 
-client.login(process.env.TOKEN);
+client.login(TOKEN);
